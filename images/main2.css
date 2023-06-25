@@ -1,0 +1,259 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 10pt; BACKGROUND: #eee; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #333; PADDING-TOP: 0px; FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; TEXT-ALIGN: center
+}
+#wrap {
+	WIDTH: 800px; FONT-SIZE: 95%; BACKGROUND: #fff repeat-y; MARGIN: 0px auto; BORDER-LEFT: #b4b8cc 1px solid; POSITION: relative; TEXT-ALIGN: left
+}
+TABLE {FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt}
+
+img {border:0px;}
+
+TD {FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; color: #000000;}
+
+TD.menu  {font-size: 16pt; color: #003366; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; font-weight: bold; border-bottom: 1px solid #a9a9a9; }
+
+TD.body-table-cell { padding: 15px 5px 15px 0; }
+
+TD.body-title-cell { padding: 15px 5px 5px 0; }
+
+TD.san-francisco-vertical { padding: 15px 15px 0 0; }
+
+TD.site-control { padding: 5px 0 3px 25px; font-size: 9pt; color: #000000; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; }
+
+TD.site-control-header { padding-left: 25px; background-color: #003366; }
+
+TD.page-image { padding: 15px 15px 0 15px; }
+
+TD.footer { padding: 0 5px 15px; }
+
+.copyright, td.copyright {FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; color : #999999;}
+
+TH {
+	FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 10pt; color : #000000;
+}
+H1 {
+	COLOR: #000000; FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: x-large; TEXT-DECORATION: none
+}
+H2 {
+	COLOR: #000000; FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: large; TEXT-DECORATION: none
+}
+H3 {
+	COLOR: #000000; FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: medium; TEXT-DECORATION: none
+}
+
+HR { color: #cccccc }
+
+.header {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 14pt;
+font-weight : bold;
+}
+
+.normal {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 10pt;
+}
+
+.heading1 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 12pt;
+font-weight : bold;
+}
+
+.headerbillboard {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #666666;
+font-size : 16pt;
+font-weight : bold;
+}
+
+.emphasis {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #FF9933;
+font-size : 10pt;
+font-weight : bold;
+}
+
+.heading1byline {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 10pt;
+font-weight : bold;
+}
+
+
+.heading2 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #666666;
+font-size : 10pt;
+font-weight : bold;
+}
+
+.heading3 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #666666;
+font-size : 10pt;
+font-style : italic;
+}
+
+.heading4 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 10pt;
+font-style : italic;
+}
+
+.faq {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 10pt;
+font-weight : bold;
+}
+
+.byline {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 8pt;
+font-style : italic;
+}
+
+.title, span.title {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 14pt;
+font-weight : bold;
+}
+
+.top-nav { font-size: 9pt; color: #ffffff; }
+
+.faq-question { font-weight: bold; font-size: 10pt; color: #003366; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; }
+
+/* Right hand modules */
+.module a { font-size: 9pt; }
+
+DIV.Heading1 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 12pt;
+font-weight : bold;
+}
+
+DIV.Heading2 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #666666;
+font-size : 10pt;
+font-weight : bold;
+}
+
+DIV.title {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 14pt;
+font-weight : bold;
+}
+
+DIV.page-link  {  }
+
+.faq-question { font-weight: bold; font-size: 10pt; color: #003366; font-family: Trebuchet MS, Arial, Helvetica, sans-serif; }
+		
+P  {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 10pt;
+}
+
+P.title {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #003366;
+font-size : 14pt;
+font-weight : bold;
+}
+
+P.title2 {
+font-family : "Trebuchet MS", Arial, Helvetica, sans-serif;
+color : #FFFFFF;
+font-size : 10pt;
+font-weight : bold;
+}
+
+P.paragraphtext {
+font-family : Trebuchet MS, Arial, Helvetica, sans-serif;
+color : #000000;
+font-size : 10pt;
+}
+
+A:link					{color:#0000CC;}
+A:visited 			{color:#660066; }
+A.top-nav			{text-decoration:none; color:#FFFFFF;}
+A.top-nav:visited	{text-decoration:none; color:#FFFFFF;}
+A.top-nav:hover 	{text-decoration:underline; color:#FFFFFF;}
+
+A.copyright 			{text-decoration:underline; font-size:8pt; color:#999999; font-family : Trebuchet MS, Arial, Helvetica, sans-serif;}
+A.copyright:visited 	{text-decoration:underline; font-size:8pt; color:#999999; font-family : Trebuchet MS, Arial, Helvetica, sans-serif;}
+A.copyright:hover 		{text-decoration:none; font-size:8pt; color:#999999; font-family : Trebuchet MS, Arial, Helvetica, sans-serif;}
+
+
+A.ftr 				{font-size:9pt; color:#666666;}
+A.ftr:visited		{font-size:9pt; color:#666666;}
+A.ftr:hover       { font-size: 9pt; color: #666666; text-decoration: underline; }
+			
+
+A.search-mod			{text-decoration:none; font-size:9pt; color:#000000;}
+A.search-mod:visited	{text-decoration:none; font-size:9pt; color:#000000;}
+A.search-mod:hover 	{text-decoration:underline; font-size:9pt; color:#000000;}
+
+A.ftr 				{font-size:9pt; color:#000000;}
+A.ftr:visited		{font-size:9pt; color:#000000;}
+
+/* Front Page */
+
+.home, .home a {
+	font-size: 9pt; color: #003366; font-weight : bold;
+}
+.homedate {FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; color: #003366;}
+
+.home a, .home a:visited 	{ text-decoration:none; }
+.home a:hover 		{ text-decoration:underline; }
+
+.hsmall, .hsmall a { 	font-size:9pt; color:#336699; }
+
+
+.newstitle, .h1, .newstitle a, a.h1 { 
+FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; 
+FONT-SIZE: 9pt; 
+color: #336699; 
+font-weight : bold; 
+} 
+
+.news {
+font-family: Trebuchet MS, Arial, Helvetica, sans-serif; 
+FONT-SIZE: 8pt;
+}
+
+/* Used on Mayor's Press Releases */
+.\38ptdate {FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; color: #003366; font-weight : bold;}
+
+
+/*
+     FILE ARCHIVED ON 23:58:59 Apr 29, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:05:08 May 23, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 150.573
+  exclusion.robots: 0.082
+  exclusion.robots.policy: 0.071
+  cdx.remote: 0.069
+  esindex: 0.012
+  LoadShardBlock: 104.474 (3)
+  PetaboxLoader3.datanode: 89.606 (4)
+  PetaboxLoader3.resolve: 115.529 (2)
+  load_resource: 191.304
+*/

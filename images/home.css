@@ -1,0 +1,60 @@
+/* home05 */
+.searchtext {
+  font-size: 8pt;
+  font-weight: bold;
+}
+
+.searchtext a {
+  color: #888;
+  text-decoration: none;
+}
+
+.searchtext a:hover {
+  text-decoration: underline;
+}
+
+#searchsel {
+  color: #036;
+  text-decoration: underline;
+}
+
+#helptext {
+  color: #888;
+}
+
+/* For IE text centering */
+td {
+  text-align: left;
+}
+
+FONT.ptheaderhome {
+  FONT-FAMILY: Trebuchet MS, Arial, Helvetica, sans-serif;
+  FONT-SIZE: 9pt;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+
+.ptdate,
+a.ptdate {
+  font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+  color: #003366;
+  font-size: 9pt;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a.ptdate:visited {
+  color: #003366;
+}
+
+td.ptext {
+  font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+  color: #000000;
+  font-size: 9pt;
+}
+
+A.homepage {
+  color: #0000CC;
+  font-size: 9pt;
+  font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+}
